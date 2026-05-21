@@ -1,0 +1,7 @@
+{
+  "name": "Burmese Movie Recap Generator",
+  "description": "A sophisticated web application that transforms YouTube transcripts into engaging Burmese movie recap scripts and generates high-quality AI narration audio using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
